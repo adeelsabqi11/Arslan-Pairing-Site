@@ -61,31 +61,26 @@ router.get('/', async (req, res) => {
 				   let MBUVI_MD_TEXT = `
 ╔════════════════════◇
 ║『 SESSION CONNECTED』
-║ ✨MAFIA-MD🔷
-║ ✨MAFIA OFFICIAL🔷
+║ ✨ DARK-MAFIA-MD 🔷
+║ ✨ 𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ 🔷
 ╚════════════════════╝
 
 
 ---
 
 ╔════════════════════◇
-║『 YOU'VE CHOSEN Arslan-MD 』
+║『 YOUR CHOSE DARK-MAFIA-MD 』
 ║ -Set the session ID in Heroku:
 ║ - SESSION_ID: 
 ╚════════════════════╝
 ╔════════════════════◇
-║ 『••• _V𝗶𝘀𝗶𝘁 𝗙𝗼𝗿_H𝗲𝗹𝗽 •••』
-║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: youtube.com/@arslanmdofficial
-║❍ 𝐎𝐰𝐧𝐞𝐫: 923237045919
-║❍ 𝐑𝐞𝐩𝐨: https://github.com/Arslan-MD/Arslan_MD 
-║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://chat.whatsapp.com/KRyARlvcUjoIv1CPSSyQA5?mode=wwt
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
-║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/arslanmd
-║ ☬ ☬ ☬ ☬
+║ *『•MORE HELP•』*
+║❍ 𝐎𝐰𝐧𝐞𝐫: 923348585489
+║❍ 𝐑𝐞𝐩𝐨: https://github.com/adeelsabqi11/DARK-MAFIA-MD
+║❍ 𝐖𝐚𝐆𝗿𝐨𝐮𝐩: https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R
 ╚═════════════════════╝
-𒂀 Enjoy Arslan-MD
-
-
+ᴘᴏᴡᴇʀ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ
 ---
 
 Don't Forget To Give Star⭐ To My Repo
