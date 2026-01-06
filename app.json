@@ -1,9 +1,9 @@
 
 {
-    "name": "arslan-md",
+    "name": "mafia-md",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/Arslan-MD/Arslan-Pairing-Site",
-    "logo": "https://files.catbox.moe/a6chsf.jpg",
+    "repository": "https://github.com/adeelsabqi11/Arslan-Pairing-Site",
+    "logo": "https://files.catbox.moe/l0p5pt.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
